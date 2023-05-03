@@ -125,12 +125,11 @@ KDE Plasma
 - Unterschiedliche Funktionen und Zielgruppen
 
 ---
-## Vor- und Nachteile von Linux
-
+# Vor- und Nachteile von Linux
 ### Vorteile
 
 - Frei und open-source
-- Sicher und stabil
+- Sicher und stabil <!--Sicherer: viren entwickeln lohnt sich weniger. Mehr entwickler suchen nach bugs-->
 - Flexibel
 - Große Gemeinschaft von Entwicklern und Benutzern
 - Software ist sicherer
