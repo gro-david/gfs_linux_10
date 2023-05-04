@@ -33,6 +33,15 @@ KDE Plasma
 -->
 
 ---
+# Themen
+- Was ist Linux?
+- Geschichte
+- Aufbau
+- Distros
+- Befehle
+- Vor- und Nachteile
+- 
+---
 ## Was ist Linux?
 
 - OS
@@ -46,6 +55,14 @@ KDE Plasma
 - 96,3 % der Webserver <!--top eine Million-->
 - 100% der Top 500 Supercomputer
 - 83,1% der Smartphones
+
+---
+# Themen
+
+
+---
+## Was ist Linux?
+
 
 ---
 ![bg right:35% h:100%](https://cdn.britannica.com/99/124299-050-4B4D509F/Linus-Torvalds-2012.jpg)
@@ -119,9 +136,9 @@ KDE Plasma
 
 - Viele verschiedene Linux-Distributionen
 - Beliebte Distros:
-  - Ubuntu <!--Anfänger Distro-->
-  - Fedora
-  - Arch Linux <!--Distro für fortgeschrittene: nur ein shell. GUI muss seperat installiert werden-->
+  - Ubuntu <!--Anfänger Distro, apt PM-->
+  - Arch Linux <!--Distro für fortgeschrittene: nur ein shell. GUI muss seperat installiert werden, Pacman PM-->
+  - Fedora <!--DNF PM, für fortgeschrittene-->
 - Unterschiedliche Funktionen und Zielgruppen
 
 ---
@@ -132,20 +149,24 @@ KDE Plasma
 - Sicher und stabil <!--Sicherer: viren entwickeln lohnt sich weniger. Mehr entwickler suchen nach bugs-->
 - Flexibel
 - Große Gemeinschaft von Entwicklern und Benutzern
-- Software ist sicherer
 - Ressourceneffizient
+<!--Software installation sicherer, nicht auf random websiten nach .exes suchen, offizielle repos-->
+<!--Live-testing vor installation-->
 
 ### Nachteile
+<!--Desktops gehen mit multi-monitor setups schlechter um-->
 
-- Umstieg
+- Umstieg 
 - Software wechsel nötig
 
 ---
 
-## Für wen eignet sich Linux?
+# Für wen eignet sich Linux?
 
 - Alle, die etwas Neues ausprobieren wollen
 - Jeder, der Freiheit und Anpassbarkeit schätzt
+<!--esonders für Entwickler und Programmierer-->
+
 
 ---
 ## Anfänger Fehler
@@ -158,6 +179,11 @@ KDE Plasma
   Desktops seperat installiert
 - Einfach commands abschreiben
 -->
+---
+# Persönliche Erfahrungen
+
+- Viel schneller
+- Manche Bugs <!--Selber schuld-->
 
 ---
 <!--header: '' -->
