@@ -40,13 +40,12 @@ KDE Plasma
 - Distros
 - Befehle
 - Vor- und Nachteile
-- 
+
 ---
 ## Was ist Linux?
 
-- OS
+- OS <!--Genauer: ein kernel-->
 - Bekannt für Stabilität, Sicherheit und Flexibilität
-<!--Wenn man von Linux redet redet man von GNU/Linux. Linux = Kernel. mehr später-->
 
 <!--frage: relevant für die nächste folie: wie viele haben android-->
 
@@ -55,14 +54,7 @@ KDE Plasma
 - 96,3 % der Webserver <!--top eine Million-->
 - 100% der Top 500 Supercomputer
 - 83,1% der Smartphones
-
----
-# Themen
-
-
----
-## Was ist Linux?
-
+ 
 
 ---
 ![bg right:35% h:100%](https://cdn.britannica.com/99/124299-050-4B4D509F/Linus-Torvalds-2012.jpg)
@@ -70,7 +62,6 @@ KDE Plasma
 
 - 1991 von Linus Torvalds entwickelt <!--Motivation: keine unterstützung für sein CPU-->
 <!--Name: Linus+Unix = Linux-->
-- Gewann schnell an Popularität
 - Große Gemeinschaft von Entwicklern und Benutzern
 
 ---
@@ -191,3 +182,11 @@ KDE Plasma
 
 ---
 ![bg w:175%](https://preview.redd.it/bbvwgctz82191.png?auto=webp&s=e82c294ff4a8f7ab0558c8e80ac5ba4165c45e91)
+
+<!--Quellen:
+https://wiki.archlinux.org/
+https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy
+https://en.wikipedia.org/wiki/Linux
+https://en.wikipedia.org/wiki/GNU
+https://en.wikipedia.org/wiki/Linux_distribution
+-->
