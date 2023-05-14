@@ -118,7 +118,7 @@ KDE Plasma
   - `ls`: Listet alle Dateien
   - `cd`: Wechselt das Verzeichnis
   - `sudo`: Führt Befehl als Administrator aus
-
+<!--sehr wichting: cmd muss nicht unbedingt angefasst werden (GUI für fast alles), aber schneller und einfacher-->
 ---
 ![ bg right:25% vertical w:200px](https://avatars.githubusercontent.com/u/4673648?s=280&v=4)
 ![bg w:200px](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png?20120210072525)
@@ -128,8 +128,8 @@ KDE Plasma
 - Viele verschiedene Linux-Distributionen
 - Beliebte Distros:
   - Ubuntu <!--Anfänger Distro, apt PM-->
-  - Arch Linux <!--Distro für fortgeschrittene: nur ein shell. GUI muss seperat installiert werden, Pacman PM-->
-  - Fedora <!--DNF PM, für fortgeschrittene-->
+  - Arch Linux <!--Distro für fortgeschrittene: nur ein shell. GUI muss seperat installiert werden, Pacman PM, ich benutze arch-->
+  - Manjaro <!--basiert auf arch, einfachere installation, für alle-->
 - Unterschiedliche Funktionen und Zielgruppen
 
 ---
@@ -139,11 +139,12 @@ KDE Plasma
 - Frei und open-source
 - Sicher und stabil <!--Sicherer: viren entwickeln lohnt sich weniger. Mehr entwickler suchen nach bugs-->
 - Flexibel
-- Große Gemeinschaft von Entwicklern und Benutzern
+- Große Gemeinschaft von Entwicklern und Benutzern <!--nette community hilft gerne-->
 - Ressourceneffizient
-<!--Software installation sicherer, nicht auf random websiten nach .exes suchen, offizielle repos-->
+<!--Software installation sicherer, scheller, nicht auf random websiten nach .exes suchen, offizielle repos-->
 <!--Live-testing vor installation-->
 <!--installation auf usb möglich **usb zeigen**-->
+<!--display nicht unbedingt benötigt, alles kann remote aus cmd gemacht werden-->
 
 ### Nachteile
 <!--Desktops gehen mit multi-monitor setups schlechter um-->
@@ -158,7 +159,10 @@ KDE Plasma
 - Alle, die etwas Neues ausprobieren wollen
 - Jeder, der Freiheit und Anpassbarkeit schätzt
 <!--besonders für Entwickler und Programmierer-->
-<!--für wen nicht?: Gamer oder MS Office-->
+<!--Alternativen kennenlernen wollen-->
+<!--für wen nicht?: Gamer oder MS Office, 
+wenn bei alter routine bleiben, 
+nichts nachschauen-->
 
 # Welches Distro?
 - Manjaro:
