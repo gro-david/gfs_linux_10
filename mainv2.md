@@ -34,6 +34,9 @@ KDE Plasma
 -->
 
 ---
+<!--paginate: true-->
+<!--Was ist mein ziel heute?: euch ein thema näher bringen wo die meisten von euch nicht viel von wissen.
+Meine eigene erfahrung übermittlen: damit nicht die selben fehler-->
 # Themen
 - Was ist Linux?
 - Geschichte
@@ -41,6 +44,8 @@ KDE Plasma
 - Distros
 - Befehle
 - Vor- und Nachteile
+- Eigene Erfahrung
+- Empfehlung
 
 ---
 ## Was ist Linux?
@@ -62,7 +67,7 @@ KDE Plasma
 ![bg right:35% h:100%](https://cdn.britannica.com/99/124299-050-4B4D509F/Linus-Torvalds-2012.jpg)
 ## Geschichte von Linux
 
-- 1991 von Linus Torvalds entwickelt <!--Motivation: keine unterstützung für sein CPU-->
+- 1991 von Linus Torvalds entwickelt <!--Motivation: keine unterstützung für sein CPU, "nur als hobby, nichts großes"-->
 <!--Name: Linus+Unix = Linux-->
 - Große Gemeinschaft von Entwicklern und Benutzern
 <!--1991: ca 9000 Codezeilen, Heute 27,8Mio-->
@@ -72,7 +77,7 @@ KDE Plasma
 ![bg vertical right:35% w:45%](https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/172px-Heckert_GNU_white.svg.png)
 ## Linux oder GNU/Linux?
 
-- Namenskonflikt in der Community <!--GNU/Linux vs Linux-->
+- Namensuneinigkeit in der Community <!--GNU/Linux vs Linux-->
 - wichtige Komponente von GNU <!--zb shell bash-->
 <!--GNU ist ein Betriebssystem, Kernel schlecht-->
 <!--GNU komponente auch von Win und Mac benutzt-->
@@ -143,7 +148,7 @@ nichts nachschauen-->
 
 # Welches Distro?
 - Manjaro:
-  - pacman
+  - pacman <!--mehr software als alles andere-->
   - einfache Installation
   <!-- KDE-Desktop am besten anpassbar, selber nachschauen, eigene Meinung-->
 
@@ -152,19 +157,24 @@ nichts nachschauen-->
 ## Anfänger Fehler
 
 - Distro nach aussehen
-- Die Annahme dass die Wechsel nur kosmetisch sind
 - Angst vor der Konsole
 <!--
 - egal welches distro, kann angepasst werden
   Desktops seperat installiert
 - Viele unterscchiede wie zb Filesystem
 - Einfach commands abschreiben
-
+- Annahme dass es gleich it wie windows/mac
 -->
 ---
 # Persönliche Erfahrungen
 - Viel schneller
-- Manche Bugs <!--Selber schuld-->
+- Manche Bugs <!--Selber schuld, falsch installiert-->
+- Viele distros ausprobiert:
+  - Zorin OS <!--basiert auf ubuntu nur look-->
+  - Ubuntu <!--sah schlecht aus-->
+  - Arch Linux <!--finale entscheidung, viel gelernt-->
+- GNOME Desktop <!--ohne anpassung: wie mac, zu wenig anpassbar-->
+- KDE Plasma <!--ohne anpassung: wie win, sehr anpassbar-->
 <!--interessante erfahrung, sieht besser aus-->
 <!--fast alles funktioniert "out of the box"-->
 ---
