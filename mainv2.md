@@ -70,7 +70,7 @@ KDE Plasma
 ## Linux oder GNU/Linux?
 
 - Namenskonflikt in der Community <!--GNU/Linux vs Linux-->
-- wichtige Komponente von GNU 
+- wichtige Komponente von GNU <!--zb shell bash-->
 <!--GNU ist ein Betriebssystem, Kernel schlecht-->
 <!--GNU komponente auch von Win und Mac benutzt-->
 <!--GNU/Linux: korrekt, Linux: Einfacher-->
@@ -82,32 +82,6 @@ KDE Plasma
 - Desktop-Umgebung zur Interaktion mit dem Betriebssystem
 <!--Desktop-Env = GUI. Bsp: Gnome, xfce, und der Beste: Plasma-->
 - Paketmanager = App Store  <!--die ersten App stores-->
-
----
-## Dateisystem
-
-    root
-      ├── bin         # essentielle Binärdateien 
-      ├── boot        # essentielle Dateien für den Bootvorgang
-      ├── dev  
-      ├── etc         # "Editable Text Config"
-      ├── home
-          ├── user1   # Benutzerdaten
-          ├── user2
-      ├── lib
-      ├── media
-      ├── mnt
-      ├── opt         # optionale Software
-      ├── proc
-      ├── root
-      ├── run
-      ├── sbin        # Binärdateien für Administratoren
-      ├── srv
-      ├── sys
-      ├── tmp
-      ├── usr
-          ├── bin     # installierte Applikationen
-      ├── var
 
 
 ---
@@ -191,6 +165,10 @@ nichts nachschauen-->
 - Manche Bugs <!--Selber schuld-->
 <!--interessante erfahrung, sieht besser aus-->
 
+
+---
+# Software is like sex; it's better when it's free. <!--fit-->
+### - Linus Torvalds
 
 ---
 ![bg w:175%](https://preview.redd.it/bbvwgctz82191.png?auto=webp&s=e82c294ff4a8f7ab0558c8e80ac5ba4165c45e91)
