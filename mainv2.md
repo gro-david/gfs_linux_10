@@ -2,7 +2,7 @@
 marp: true
 class: invert
 ---
-
+<!--hallo und willkommen zu meiner GFS, gleich ne frage: os?-->
 ---
 <!-- paginate: false -->
 ![bg](https://ucarecdn.com/38ae1b9c-5544-4ab1-8f4e-25c5705bb15d/)
@@ -17,6 +17,7 @@ macOs?
 Windows?
 -->
 ---
+<!--Ja mein thema heute ist Linux. -->
 # Linux <!--fit-->
 
 ---
@@ -54,6 +55,7 @@ KDE Plasma
 - 96,3 % der Webserver <!--top eine Million-->
 - 100% der Top 500 Supercomputer
 - 83,1% der Smartphones
+<!--in der schule ständig linux: fire tv, steam os, ANDROID, -->
  
 
 ---
@@ -63,6 +65,7 @@ KDE Plasma
 - 1991 von Linus Torvalds entwickelt <!--Motivation: keine unterstützung für sein CPU-->
 <!--Name: Linus+Unix = Linux-->
 - Große Gemeinschaft von Entwicklern und Benutzern
+<!--1991: ca 9000 Codezeilen, Heute 27,8Mio-->
 
 ---
 ![bg vertical right:35% w:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/142px-Tux.svg.png)
@@ -96,7 +99,7 @@ KDE Plasma
 ---
 ![ bg right:25% vertical w:200px](https://avatars.githubusercontent.com/u/4673648?s=280&v=4)
 ![bg w:200px](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png?20120210072525)
-![bg w:200px](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fedora-logo.svg/2048px-Fedora-logo.svg.png)
+![bg w:200px](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1200px-Manjaro-logo.svg.png)
 ## Distros
 
 - Viele verschiedene Linux-Distributionen
@@ -160,23 +163,34 @@ nichts nachschauen-->
 -->
 ---
 # Persönliche Erfahrungen
-
 - Viel schneller
 - Manche Bugs <!--Selber schuld-->
 <!--interessante erfahrung, sieht besser aus-->
-
+<!--fast alles funktioniert "out of the box"-->
+---
+# Fazit <!--oder: die letzten 15 min in einer min-->
+- Linux: Kernel
+- GNU/Linux: 
+  - Frei und open-source Betriebssystem
+  - Modular
+- Positive Erfahrung, jedem zum Ausprobieren empfohlen <!--nicht als ständiges system, für gamer und Ms Office users.-->
+<!--zuletzt noch ein zitat von Linus Torvalds:-->
 
 ---
 # Software is like sex; it's better when it's free. <!--fit-->
 ### - Linus Torvalds
 
 ---
+<!--das wars mit meiner präsentation, link zu mein github auf handout: quellen mund source code. Bereit für alle fragen auch privat.-->
+<!--Wer benutzt es, oder will es ausprobieren (nicht Android)-->
 ![bg w:175%](https://preview.redd.it/bbvwgctz82191.png?auto=webp&s=e82c294ff4a8f7ab0558c8e80ac5ba4165c45e91)
 
-<!--Quellen:
+<!--Sources:
 https://wiki.archlinux.org/
 https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy
 https://en.wikipedia.org/wiki/Linux
 https://en.wikipedia.org/wiki/GNU
 https://en.wikipedia.org/wiki/Linux_distribution
+https://www.goodreads.com/quotes/1034-software-is-like-sex-it-s-better-when-it-s-free
+https://www.linux.com/news/linux-in-2020-27-8-million-lines-of-code-in-the-kernel-1-3-million-in-systemd/
 -->
