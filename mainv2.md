@@ -143,6 +143,7 @@ KDE Plasma
 - Ressourceneffizient
 <!--Software installation sicherer, nicht auf random websiten nach .exes suchen, offizielle repos-->
 <!--Live-testing vor installation-->
+<!--installation auf usb möglich **usb zeigen**-->
 
 ### Nachteile
 <!--Desktops gehen mit multi-monitor setups schlechter um-->
@@ -163,7 +164,7 @@ KDE Plasma
 - Manjaro:
   - pacman
   - einfache Installation
-  <!-- KDE-Desktop am besten anpassbar-->
+  <!-- KDE-Desktop am besten anpassbar, selber nachschauen, eigene Meinung-->
 
 
 ---
@@ -184,6 +185,7 @@ KDE Plasma
 
 - Viel schneller
 - Manche Bugs <!--Selber schuld-->
+<!--interessante erfahrung, sieht besser aus-->
 
 
 ---
