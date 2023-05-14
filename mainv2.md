@@ -163,12 +163,14 @@ KDE Plasma
 ## Anfänger Fehler
 
 - Distro nach aussehen
-- Denken dass es wie Windows ist
+- Die Annahme dass die Wechsel nur kosmetisch sind
 - Angst vor der Konsole
 <!--
 - egal welches distro, kann angepasst werden
   Desktops seperat installiert
+- Viele unterscchiede wie zb Filesystem
 - Einfach commands abschreiben
+
 -->
 ---
 # Persönliche Erfahrungen
