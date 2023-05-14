@@ -148,7 +148,7 @@ KDE Plasma
 <!--Desktops gehen mit multi-monitor setups schlechter um-->
 
 - Umstieg 
-- Software wechsel nötig
+- Software wechsel nötig <!--zb von MS Office auf OnlyOffice-->
 
 ---
 
@@ -156,7 +156,14 @@ KDE Plasma
 
 - Alle, die etwas Neues ausprobieren wollen
 - Jeder, der Freiheit und Anpassbarkeit schätzt
-<!--esonders für Entwickler und Programmierer-->
+<!--besonders für Entwickler und Programmierer-->
+<!--für wen nicht?: Gamer oder MS Office-->
+
+# Welches Distro?
+- Manjaro:
+  - pacman
+  - einfache Installation
+  <!-- KDE-Desktop am besten anpassbar-->
 
 
 ---
@@ -178,9 +185,6 @@ KDE Plasma
 - Viel schneller
 - Manche Bugs <!--Selber schuld-->
 
----
-<!--header: '' -->
-![bg](https://repository-images.githubusercontent.com/458803330/fd027c0e-dcbb-4127-8670-7dd92566b808)
 
 ---
 ![bg w:175%](https://preview.redd.it/bbvwgctz82191.png?auto=webp&s=e82c294ff4a8f7ab0558c8e80ac5ba4165c45e91)
