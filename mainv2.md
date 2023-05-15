@@ -3,19 +3,20 @@ marp: true
 class: invert
 ---
 <!--hallo und willkommen zu meiner GFS, gleich ne frage: os?-->
----
-<!-- paginate: false -->
-![bg](https://ucarecdn.com/38ae1b9c-5544-4ab1-8f4e-25c5705bb15d/)
-<!-- 
-macOs?
--->
-
 
 ---
 ![bg](https://libre2news.files.wordpress.com/2021/04/screenshotfrom2021-03-3123-29-06.png?w=1024)
 <!-- 
 Windows?
 -->
+
+---
+<!-- paginate: false -->
+![bg](https://nicec0re.pearos.xyz/img/ohhh_yeaaa.png)
+<!-- 
+macOs?
+-->
+
 ---
 <!--Ja mein thema heute ist Linux. -->
 # Linux <!--fit-->
@@ -166,6 +167,7 @@ nichts nachschauen-->
 - Annahme dass es gleich it wie windows/mac
 -->
 ---
+<!--wie vielleicht manche von euch wissen benutze ich seit etwa einem halben jahr linux, deswegen möchte ich euch heute nicht nur theoretische sachen erzählen sondern, auch was meine erfahrungen mit diesem os sind. Ich habe die meisten größten distros und alle großen desktops ausprobiert. ->
 # Persönliche Erfahrungen
 - Viel schneller
 - Manche Bugs <!--Selber schuld, falsch installiert-->
@@ -182,7 +184,7 @@ nichts nachschauen-->
 - Linux: Kernel
 - GNU/Linux: 
   - Frei und open-source Betriebssystem
-  - Modular
+  - Modular <!--auch anpassbar-->
 - Positive Erfahrung, jedem zum Ausprobieren empfohlen <!--nicht als ständiges system, für gamer und Ms Office users.-->
 <!--zuletzt noch ein zitat von Linus Torvalds:-->
 
@@ -203,4 +205,5 @@ https://en.wikipedia.org/wiki/GNU
 https://en.wikipedia.org/wiki/Linux_distribution
 https://www.goodreads.com/quotes/1034-software-is-like-sex-it-s-better-when-it-s-free
 https://www.linux.com/news/linux-in-2020-27-8-million-lines-of-code-in-the-kernel-1-3-million-in-systemd/
+https://www.gnu.org
 -->
