@@ -5,14 +5,14 @@ class: invert
 <!--hallo und willkommen zu meiner GFS, gleich ne frage: os?-->
 
 ---
-![bg](https://libre2news.files.wordpress.com/2021/04/screenshotfrom2021-03-3123-29-06.png?w=1024)
+![bg](https://preview.redd.it/00kmufhvug871.png?width=1920&format=png&auto=webp&s=483cad2a0b8917ec5ed6ccf090de7a7ee707fa9d)
 <!-- 
 Windows?
 -->
 
 ---
 <!-- paginate: false -->
-![bg](https://nicec0re.pearos.xyz/img/ohhh_yeaaa.png)
+![bg](pear_os_screenshot.png)
 <!-- 
 macOs?
 -->
@@ -49,15 +49,29 @@ Meine eigene erfahrung übermittlen: damit nicht die selben fehler-->
 - Empfehlung
 
 ---
-## Was ist Linux?
-
-- OS <!--Genauer: ein kernel-->
-- Bekannt für Stabilität, Sicherheit und Flexibilität
-
-<!--frage: relevant für die nächste folie: wie viele haben android-->
+<!--Was ist Linux eigentlich?-->
+# Was ist Linux? <!--fit-->
+- Kernel, kein Betriebssystem <!--Kernel: Schnittstelle zwischen Hardware und Software-->
+---
+<!--Was ist überhaupt ein Kernel?-->
+![bg center](kernel_vis.png)
+<!--Das wirft die frage auf: Wenn Linux nur das Klebstoff ist, was ist was ist eigentlich das betriebssystem was die meisten als linux kennen?-->
 
 ---
-## Aber niemand benutzt Linux!!
+![bg vertical right:35% w:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/142px-Tux.svg.png)
+![bg vertical right:35% w:45%](https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/172px-Heckert_GNU_white.svg.png)
+# Linux oder GNU/Linux?
+
+- Namensuneinigkeit in der Community <!--GNU/Linux vs Linux-->
+- wichtige Komponente von GNU <!--zb shell bash-->
+<!--GNU ist ein Betriebssystem, Kernel schlecht => meistens Linux als kernel-->
+<!--GNU komponente auch von Win und Mac benutzt-->
+<!--GNU/Linux: korrekt, Linux: Einfacher-->
+<!--Aber es gibt auch nicht den GNU/Linux OS, es gibt stattdessen mehrere GNU/Linux **basierte** Betriebssysteme die man Distribution oder Distro nennt-->
+
+<!--TODO: hier fehlt noch was-->
+---
+# Aber niemand benutzt Linux!!
 - 96,3 % der Webserver <!--top eine Million-->
 - 100% der Top 500 Supercomputer
 - 83,1% der Smartphones
@@ -65,27 +79,18 @@ Meine eigene erfahrung übermittlen: damit nicht die selben fehler-->
  
 
 ---
+<!--nachdem wir jetzt aso geklärt haben was, linux ist wie es benutzt wird, können wir uns die geschichte kurz angucken.-->
 ![bg right:35% h:100%](https://cdn.britannica.com/99/124299-050-4B4D509F/Linus-Torvalds-2012.jpg)
-## Geschichte von Linux
 
+# Geschichte von Linux
 - 1991 von Linus Torvalds entwickelt <!--Motivation: keine unterstützung für sein CPU, "nur als hobby, nichts großes"-->
 <!--Name: Linus+Unix = Linux-->
+- in 1990 kein GNU-Hurd <!-- das ist der Kernel was von GNU entwickelt wir. Außer hurd war alles andere schon fertig. so konnte man Linux und GNU zusammen als OS benutzen-->
 - Große Gemeinschaft von Entwicklern und Benutzern
-<!--1991: ca 9000 Codezeilen, Heute 27,8Mio-->
-
----
-![bg vertical right:35% w:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/142px-Tux.svg.png)
-![bg vertical right:35% w:45%](https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/172px-Heckert_GNU_white.svg.png)
-## Linux oder GNU/Linux?
-
-- Namensuneinigkeit in der Community <!--GNU/Linux vs Linux-->
-- wichtige Komponente von GNU <!--zb shell bash-->
-<!--GNU ist ein Betriebssystem, Kernel schlecht-->
-<!--GNU komponente auch von Win und Mac benutzt-->
-<!--GNU/Linux: korrekt, Linux: Einfacher-->
+<!--auch scchon gesagt: große community: 1991: ca 9000 Codezeilen, Heute 27,8Mio-->
 ---
 
-## Aufbau von Linux
+# Aufbau von Linux
 - Modular <!--Manche Module vom distro: Pacman, manche serlber: Desktop, Displaymanager, Windowmanager-->
 - Hierarchisches Dateisystem <!--Keine Drives, später mehr-->
 - Desktop-Umgebung zur Interaktion mit dem Betriebssystem
@@ -94,20 +99,20 @@ Meine eigene erfahrung übermittlen: damit nicht die selben fehler-->
 
 
 ---
-## Wichtigste Befehle
+# Wichtigste Befehle
 
 - Command-Line-Interface (CLI) zur interaktion
 - Wichtige Befehle:
   - `ls`: Listet alle Dateien
   - `cd`: Wechselt das Verzeichnis
   - `sudo`: Führt Befehl als Administrator aus
-<!--sehr wichting: cmd muss nicht unbedingt angefasst werden (GUI für fast alles), aber schneller und einfacher-->
+<!--sehr wichting: cmd muss nicht unbedingt angefasst werden (GUI für fast alles), aber schneller und einfacher, ABER alles kann in cmd erledigt werden, natürlich noch viel mehr befehle-->
 ---
 ![ bg right:25% vertical w:200px](https://avatars.githubusercontent.com/u/4673648?s=280&v=4)
 ![bg w:200px](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png?20120210072525)
 ![bg w:200px](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1200px-Manjaro-logo.svg.png)
-## Distros
-
+# Distros
+<!--Distros oder distributions, sind Komplette betriebssysteme, basierend auf GNU/Linux.Die distro ersteller können frei wählen was für software dabei ist.zurzeit gibt es über 600 distros.-->
 - Viele verschiedene Linux-Distributionen
 - Beliebte Distros:
   - Ubuntu <!--Anfänger Distro, apt PM-->
@@ -120,11 +125,12 @@ Meine eigene erfahrung übermittlen: damit nicht die selben fehler-->
 ### Vorteile
 
 - Frei und open-source
-- Sicher und stabil <!--Sicherer: viren entwickeln lohnt sich weniger. Mehr entwickler suchen nach bugs-->
+- Sicher und stabil <!--Sicherer als alternativen: viren entwickeln lohnt sich weniger. Mehr entwickler suchen nach bugs-->
+<!--Software installation sicherer, scheller, nicht auf random websiten nach .exes suchen, offizielle repos-->
 - Flexibel
+<!--viele einsetzungsbereiche: von handys über supercomputer alles möglich-->
 - Große Gemeinschaft von Entwicklern und Benutzern <!--nette community hilft gerne-->
 - Ressourceneffizient
-<!--Software installation sicherer, scheller, nicht auf random websiten nach .exes suchen, offizielle repos-->
 <!--Live-testing vor installation-->
 <!--installation auf usb möglich **usb zeigen**-->
 <!--display nicht unbedingt benötigt, alles kann remote aus cmd gemacht werden-->
@@ -136,7 +142,6 @@ Meine eigene erfahrung übermittlen: damit nicht die selben fehler-->
 - Software wechsel nötig <!--zb von MS Office auf OnlyOffice-->
 
 ---
-
 # Für wen eignet sich Linux?
 
 - Alle, die etwas Neues ausprobieren wollen
@@ -185,15 +190,11 @@ nichts nachschauen-->
 - GNU/Linux: 
   - Frei und open-source Betriebssystem
   - Modular <!--auch anpassbar-->
-- Positive Erfahrung, jedem zum Ausprobieren empfohlen <!--nicht als ständiges system, für gamer und Ms Office users.-->
+- Positive Erfahrung, jedem zum Ausprobieren empfohlen <!--nicht unbedingt als ständiges system, für gamer und Ms Office users.-->
 <!--zuletzt noch ein zitat von Linus Torvalds:-->
 
 ---
-# Software is like sex; it's better when it's free. <!--fit-->
-### - Linus Torvalds
-
----
-<!--das wars mit meiner präsentation, link zu mein github auf handout: quellen mund source code. Bereit für alle fragen auch privat.-->
+<!--das wars mit meiner präsentation, link zu mein github auf handout: quellen und source code. Bereit für alle fragen auch privat.-->
 <!--Wer benutzt es, oder will es ausprobieren (nicht Android)-->
 ![bg w:175%](https://preview.redd.it/bbvwgctz82191.png?auto=webp&s=e82c294ff4a8f7ab0558c8e80ac5ba4165c45e91)
 
@@ -206,4 +207,9 @@ https://en.wikipedia.org/wiki/Linux_distribution
 https://www.goodreads.com/quotes/1034-software-is-like-sex-it-s-better-when-it-s-free
 https://www.linux.com/news/linux-in-2020-27-8-million-lines-of-code-in-the-kernel-1-3-million-in-systemd/
 https://www.gnu.org
+https://www.youtube.com/watch?v=fi-UTJGg4e8
+https://pixabay.com/illustrations/adhesive-tube-paste-handcraft-4680410/
+https://cdn-icons-png.flaticon.com/512/2729/2729156.png
+https://freepngimg.com/thumb/categories/1868.png
+https://truelist.co/blog/linux-statistics/
 -->

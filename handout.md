@@ -7,6 +7,14 @@
 
 ---
 
+## Linux oder GNU/Linux?
+- Namensuneinigkeit in der Community
+- Wichtige Komponente von GNU 
+- GNU: Betriebssystem
+- Linux: Kernel
+
+---
+
 ## Aber niemand benutzt Linux!!
 - 96,3 % der Webserver
 - 100 % der Top 500 Supercomputer
@@ -19,14 +27,6 @@
 - 1991 von Linus Torvalds entwickelt
 - Linus + Unix = Linux
 - Große Gemeinschaft von Entwicklern und Benutzern
-
----
-
-## Linux oder GNU/Linux?
-- Namensuneinigkeit in der Community
-- Wichtige Komponente von GNU 
-- GNU: Betriebssystem
-- Linux: Kernel
 
 ---
 
@@ -106,13 +106,8 @@
 - GNOME Desktop (Wie Mac, weniger anpassbar)
 - KDE Plasma (Wie Windows, sehr anpassbar)
 
+
 ---
-# Quellen:
-- https://wiki.archlinux.org/
-- https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy
-- https://en.wikipedia.org/wiki/Linux
-- https://en.wikipedia.org/wiki/GNU
-- https://en.wikipedia.org/wiki/Linux_distribution
-- https://www.goodreads.com/quotes/1034-software-is-like-sex-it-s-better-when-it-s-free
-- https://www.linux.com/news/linux-in-2020-27-8-million-lines-of-code-in-the-kernel-1-3-million-in-systemd/
-- https://www.gnu.org
+# Source Code und Quellen
+### Diese Präsentation is Open-Source und kann auf GitHub gefunden werden!
+<img src="github-qr.png"  width="20%" height="20%">
