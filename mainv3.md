@@ -194,6 +194,10 @@ nichts nachschauen-->
 <!--zuletzt noch ein zitat von Linus Torvalds:-->
 
 ---
+# Software is like sex; it's better when it's free.
+### - Linus Torvalds
+
+---
 <!--das wars mit meiner präsentation, link zu mein github auf handout: quellen und source code. Bereit für alle fragen auch privat.-->
 <!--Wer benutzt es, oder will es ausprobieren (nicht Android)-->
 ![bg w:175%](https://preview.redd.it/bbvwgctz82191.png?auto=webp&s=e82c294ff4a8f7ab0558c8e80ac5ba4165c45e91)
