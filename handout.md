@@ -110,4 +110,5 @@
 ---
 # Source Code und Quellen
 ### Diese Präsentation is Open-Source und kann auf GitHub gefunden werden!
+\
 <img src="github-qr.png"  width="20%" height="20%">
