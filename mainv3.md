@@ -160,7 +160,7 @@ nichts nachschauen-->
 
 
 ---
-## Anfänger Fehler
+## Anfängerfehler
 
 - Distro nach aussehen
 - Angst vor der Konsole
@@ -176,6 +176,7 @@ nichts nachschauen-->
 # Persönliche Erfahrungen
 - Viel schneller
 - Manche Bugs <!--Selber schuld, falsch installiert-->
+# Persönliche Erfahrung
 - Viele distros ausprobiert:
   - Zorin OS <!--basiert auf ubuntu nur look-->
   - Ubuntu <!--sah schlecht aus-->

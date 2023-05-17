@@ -160,7 +160,7 @@ nichts nachschauen-->
 
 
 ---
-## Anfänger Fehler
+## Anfängerfehler
 
 - Distro nach aussehen
 - Angst vor der Konsole
@@ -176,6 +176,7 @@ nichts nachschauen-->
 # Persönliche Erfahrungen
 - Viel schneller
 - Manche Bugs <!--Selber schuld, falsch installiert-->
+# Persönliche Erfahrung
 - Viele distros ausprobiert:
   - Zorin OS <!--basiert auf ubuntu nur look-->
   - Ubuntu <!--sah schlecht aus-->
@@ -190,15 +191,15 @@ nichts nachschauen-->
 - GNU/Linux: 
   - Frei und open-source Betriebssystem
   - Modular <!--auch anpassbar-->
-- Positive Erfahrung, jedem zum Ausprobieren empfohlen <!--nicht unbedingt als ständiges system, für gamer und Ms Office users.-->
-<!--zuletzt noch ein zitat von Linus Torvalds:-->
+- Positive Erfahrung, jedem zum Ausprobieren empfohlen
 
 ---
 <!--das wars mit meiner präsentation, link zu mein github auf handout: quellen und source code. Bereit für alle fragen auch privat.-->
 <!--Wer benutzt es, oder will es ausprobieren (nicht Android)-->
 ![bg w:175%](https://preview.redd.it/bbvwgctz82191.png?auto=webp&s=e82c294ff4a8f7ab0558c8e80ac5ba4165c45e91)
 
-<!--Sources:
+
+<!--Quellen:
 https://wiki.archlinux.org/
 https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy
 https://en.wikipedia.org/wiki/Linux
